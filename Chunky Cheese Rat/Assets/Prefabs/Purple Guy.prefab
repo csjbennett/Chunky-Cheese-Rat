@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5245426694992589296
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1319144750089017582, guid: cfeb292f631e66140bb39e22cf5b469f,
+        type: 3}
+      propertyPath: m_Name
+      value: Purple Guy
+      objectReference: {fileID: 0}
+    - target: {fileID: 1319144750089017490, guid: cfeb292f631e66140bb39e22cf5b469f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1319144750089017490, guid: cfeb292f631e66140bb39e22cf5b469f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1319144750089017490, guid: cfeb292f631e66140bb39e22cf5b469f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1319144750089017490, guid: cfeb292f631e66140bb39e22cf5b469f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1319144750089017490, guid: cfeb292f631e66140bb39e22cf5b469f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1319144750089017490, guid: cfeb292f631e66140bb39e22cf5b469f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1319144750089017490, guid: cfeb292f631e66140bb39e22cf5b469f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1319144750089017490, guid: cfeb292f631e66140bb39e22cf5b469f,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1319144750089017490, guid: cfeb292f631e66140bb39e22cf5b469f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1319144750089017490, guid: cfeb292f631e66140bb39e22cf5b469f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1319144750089017490, guid: cfeb292f631e66140bb39e22cf5b469f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1319144750089017581, guid: cfeb292f631e66140bb39e22cf5b469f,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 6773045192503259582, guid: 33c2538fd4b34764c95e75ac497a6d16,
+        type: 3}
+    - target: {fileID: 1319144750089017583, guid: cfeb292f631e66140bb39e22cf5b469f,
+        type: 3}
+      propertyPath: m_Direction
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1319144750089017583, guid: cfeb292f631e66140bb39e22cf5b469f,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1319144750089017583, guid: cfeb292f631e66140bb39e22cf5b469f,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1319144750089017583, guid: cfeb292f631e66140bb39e22cf5b469f,
+        type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 6200000, guid: 7c895da8814463d44976d0d9c4f0701e, type: 2}
+    - target: {fileID: 1319144750089017488, guid: cfeb292f631e66140bb39e22cf5b469f,
+        type: 3}
+      propertyPath: shotDelay
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1319144750089017488, guid: cfeb292f631e66140bb39e22cf5b469f,
+        type: 3}
+      propertyPath: shotgun
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1319144750089017488, guid: cfeb292f631e66140bb39e22cf5b469f,
+        type: 3}
+      propertyPath: health
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1319144750089017488, guid: cfeb292f631e66140bb39e22cf5b469f,
+        type: 3}
+      propertyPath: stopDistance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1319144750089017488, guid: cfeb292f631e66140bb39e22cf5b469f,
+        type: 3}
+      propertyPath: shootDistance
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 1319144750089017488, guid: cfeb292f631e66140bb39e22cf5b469f,
+        type: 3}
+      propertyPath: shootSound
+      value: 
+      objectReference: {fileID: 8300000, guid: bc6c47946a4e008459773afb78f1ddfb, type: 3}
+    - target: {fileID: 800419151432819881, guid: cfeb292f631e66140bb39e22cf5b469f,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 79640504d53538e449f911e52b75e7a1, type: 2}
+    - target: {fileID: 1319144750631091823, guid: cfeb292f631e66140bb39e22cf5b469f,
+        type: 3}
+      propertyPath: m_Name
+      value: Purple Guy Arm
+      objectReference: {fileID: 0}
+    - target: {fileID: 2879668430442767390, guid: cfeb292f631e66140bb39e22cf5b469f,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 379019fdc6a42ca4db3519d13da8942e, type: 2}
+    - target: {fileID: 1319144750631091821, guid: cfeb292f631e66140bb39e22cf5b469f,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -6618852924029874831, guid: 1ed8a3bc9b68f2f458eb0c8171838fcb,
+        type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cfeb292f631e66140bb39e22cf5b469f, type: 3}
